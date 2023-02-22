@@ -55,9 +55,9 @@ img{
 }
 .productPagePic{
     border-radius: 0%;
-    width: 50%;
+    width: 20%;
     vertical-align: center;
 }
-table{
-    margin: 0 auto;
+.contactForm{
+    margin-left: 2%;
 }
