@@ -1,12 +1,83 @@
+.navbar-brand ,.nav-link ,.navbar-nav .nav-link.active{
+    color: #ea2b37;
+    font-size: 25px;
+}
 
-.title-head{
-    font-size: 5rem;
-    margin-top: 60px;
+p{
+    background-color: red;
+}
+
+.top-container{
+    
+    margin-top: 20px;
     text-align: center;
     height: 100px;
-    background-color: aquamarine;
+    background-color: #ea2b37;
+}
+
+.prod-title{
+    color: rgb(247, 247, 247);
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 5rem;
 }
 
 body{
-    background-color: antiquewhite;
+    color: rgb(255, 82, 82);
+    background-color: rgb(255, 255, 255);
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.ourteam-title{
+    color: darkblue;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+img{
+    width: 50%;
+    border-radius: 60%;
+}
+
+#icon{
+    width: 50px;
+    border-radius: 0%;
+    margin-left: 10px;
+}
+
+.banner{
+    width: 100%;
+    border-radius: 0%;
+
+}
+
+.team-img{
+    margin-top: 50px;
+    margin-left: 20px ;
+    margin-right: 20px;
+}
+.name{
+    font-size: 6rem ;
+    text-align: right;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+
+.position{
+    font-size: 6rem ;
+    text-align: left;
+    display: block;
+    position: relative;
+    left: 100px;
+}
+.productPic{
+    border-radius: 0%;
+}
+.productPagePic{
+    border-radius: 0%;
+    width: 20%;
+    vertical-align: center;
+}
+.contactForm{
+    margin-left: 2%;
 }
