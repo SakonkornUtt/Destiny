@@ -1,27 +1,43 @@
+<<<<<<< HEAD
 p{
     font-size: 30px;
     font-weight: bold;
     
+=======
+.navbar-brand ,.nav-link ,.navbar-nav .nav-link.active{
+    color: #ea2b37;
+    font-size: 25px;
+    height: 65px;
+>>>>>>> 90acb9fe645ae0e99cb082bae1cbc551a0ccccf0
 }
-
 .top-container{
+<<<<<<< HEAD
     padding: 50px;
     margin-top: 20px;
     text-align: center;
     height: 100px;
+=======
+    margin-top: 20px;
+    text-align: center;
+    height: 100px;
+    background-color: #ea2b37;
+>>>>>>> 90acb9fe645ae0e99cb082bae1cbc551a0ccccf0
 }
 
 .prod-title{
-    color: darkblue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(247, 247, 247);
+    font-family: 'Noto Sans', sans-serif;
     font-size: 5rem;
 }
 
 body{
-    background-color: antiquewhite;
+    color: rgb(255, 82, 82);
+    background-color: rgb(255, 255, 255);
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .ourteam-title{
+<<<<<<< HEAD
     padding: 50px;
     color: #fa7474;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -33,6 +49,35 @@ img{
     border-radius: 60%;
 }
 
+=======
+    color: darkblue;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+img{
+    width: 50%;
+    border-radius: 60%;
+}
+
+#icon{
+    width: 5%;
+    height:auto;
+    border-radius: 0%;
+    margin-left: 10px;
+}
+
+.banner{
+    width: 100%;
+    border-radius: 0%;
+
+}
+
+.team-img{
+    margin-top: 50px;
+    margin-left: 20px ;
+    margin-right: 20px;
+}
+>>>>>>> 90acb9fe645ae0e99cb082bae1cbc551a0ccccf0
 .name{
     font-size: 6rem ;
     text-align: right;
@@ -48,6 +93,7 @@ img{
     position: relative;
     left: 100px;
 }
+<<<<<<< HEAD
 
 #about {
     padding: 120px 0px;
@@ -93,3 +139,16 @@ p{
   .features-item:hover{
     transform: translateY(-1em) scale(1.03);
   }
+=======
+.productPic{
+    border-radius: 0%;
+}
+.productPagePic{
+    border-radius: 0%;
+    width: 20%;
+    vertical-align: center;
+}
+.contactForm{
+    margin-left: 2%;
+}
+>>>>>>> 90acb9fe645ae0e99cb082bae1cbc551a0ccccf0
