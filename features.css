@@ -30,7 +30,7 @@ p{
 }
 .button-features:hover {
     background-color: red;
-    ;
+    
   }
   .features-item:hover{
     transform: translateY(-1em) scale(1.03);
