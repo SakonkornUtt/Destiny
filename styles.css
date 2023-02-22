@@ -27,7 +27,6 @@ body{
 }
 
 img{
-    
     width: 20%;
     border-radius: 60%;
 }
@@ -50,5 +49,15 @@ img{
     display: block;
     position: relative;
     left: 100px;
-
+}
+.productPic{
+    border-radius: 0%;
+}
+.productPagePic{
+    border-radius: 0%;
+    width: 50%;
+    vertical-align: center;
+}
+table{
+    margin: 0 auto;
 }
