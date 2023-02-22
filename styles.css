@@ -11,7 +11,7 @@
 }
 
 .prod-title{
-    color: rgb(247, 247, 247);
+    color: rgb(255, 255, 255);
     font-family: 'Noto Sans', sans-serif;
     font-size: 5rem;
 }
@@ -23,19 +23,9 @@ body{
 }
 
 .ourteam-title{
-    padding: 50px;
-    color: #fa7474;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 5rem;
-}
-
-img{
-    width: 20%;
-    border-radius: 60%;
-}
-
-    color: darkblue;
+    color: #ffffff;
     font-family: 'Noto Sans', sans-serif;
+    font-size: 5rem;
 }
 
 img{
