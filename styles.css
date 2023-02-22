@@ -1,9 +1,9 @@
 .navbar-brand ,.nav-link ,.navbar-nav .nav-link.active{
     color: #ea2b37;
     font-size: 25px;
+    height: 65px;
 }
 .top-container{
-    
     margin-top: 20px;
     text-align: center;
     height: 100px;
@@ -20,7 +20,6 @@ body{
     color: rgb(255, 82, 82);
     background-color: rgb(255, 255, 255);
     font-family: 'Noto Sans', sans-serif;
-
 }
 
 .ourteam-title{
@@ -34,7 +33,8 @@ img{
 }
 
 #icon{
-    width: 50px;
+    width: 5%;
+    height:auto;
     border-radius: 0%;
     margin-left: 10px;
 }
