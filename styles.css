@@ -1,9 +1,14 @@
+p{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
 
-.top-container{  
+.top-container{
+    padding: 50px;
     margin-top: 20px;
     text-align: center;
     height: 100px;
-    background-color: aquamarine;
 }
 
 .prod-title{
@@ -17,7 +22,8 @@ body{
 }
 
 .ourteam-title{
-    color: darkblue;
+    padding: 50px;
+    color: #fa7474;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 5rem;
 }
@@ -26,11 +32,7 @@ img{
     width: 20%;
     border-radius: 60%;
 }
-.team-img{
-    margin-top: 50px;
-    margin-left: 20px ;
-    margin-right: 20px;
-}
+
 .name{
     font-size: 6rem ;
     text-align: right;
@@ -45,10 +47,6 @@ img{
     display: block;
     position: relative;
     left: 100px;
-
-}
-.team-img{
-    background-color: darkseagreen;
 }
 
 #about {
@@ -76,6 +74,13 @@ a.button-features {
     letter-spacing: 1.5px;
     text-decoration: none;
     
+}
+
+.member-name{
+    font-size: 50px;
+    font-weight: bold;
+    color: #CD5888;
+
 }
 
 p{
