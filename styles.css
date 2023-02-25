@@ -122,3 +122,26 @@ p{
 .contactForm{
     margin-left: 2%;
 }
+h3{
+    text-align: center;
+}
+h3:target{
+    color: white;
+    background: #CD5888;;
+}
+h6{
+    text-align: center;
+}
+hr{
+    border-style: dotted none none;
+    background-color: transparent;
+    border-width: 5px;
+    height: 0px;
+    width: 30%;
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+  }
